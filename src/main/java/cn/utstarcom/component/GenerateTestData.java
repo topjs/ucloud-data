@@ -6,7 +6,7 @@ import java.io.IOException;
 
 public class GenerateTestData {
     public static long getId() {
-        return (long) (Math.random() * 1000000000000l);
+        return (long) (Math.random() * 1000000000000L);
     }
     public static String getRadomCOLLECTIONDATE() {
         String year[] = { "2018" };
