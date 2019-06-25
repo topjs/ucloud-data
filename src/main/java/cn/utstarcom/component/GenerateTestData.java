@@ -84,6 +84,6 @@ public class GenerateTestData {
         }
     }
     public static void main(String[] args) {
-        write(3000000, "/tmp/data1.txt");
+        write(3000000, "/tmp/data2.txt");
     }
 }
